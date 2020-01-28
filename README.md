@@ -1,6 +1,7 @@
 # Meu portifolio
 
-Nesse repositório armazenei meu site pessoal em HTML, CSS e JavaScript.
+Repositório usado para desenvolver e aprimorar meu site pessoal em HTML, CSS e JavaScript.
 
-Nele comto o pouco da minha vivência com proficional de T.I e como programador Java, listo também alguns projetos de software que participei com empresas da cidade onde moro, e um projeto do um jogo que atualmente contribuo como programador e com os efeitos sonoros.
+Nele falo um pouco da minha vivência como profissional de suporte em T.I e como programador Java Júnior, listo também alguns projetos de software que participei com empresas da cidade onde moro. Conto também sobre um projeto do um game 2d que atualmente contribuo como programador e com os efeitos sonoros.
+
 
