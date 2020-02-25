@@ -4,7 +4,8 @@ Site pessoal single page para apresentação das minhas experiências profission
 
 ## Visualização
 
-**[Visualizar](https://palmeriojulio.netlify.com/)**
+Para hospedagem da página usei a plataforma [netlify.com](https://www.netlify.com/), na conta gratuita a empresa oferece hospedagem de projetos simples sem banco de dados. Fique a vontade para avaliar o site e me mandar dicas pelo formulário de contato, ficarei agradecido. 
+[Portifólio](https://palmeriojulio.netlify.com/)
 
 ## Status
 
