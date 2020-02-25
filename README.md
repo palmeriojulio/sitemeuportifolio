@@ -1,12 +1,10 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+# [Portifólio](https://startbootstrap.com/template-overviews/resume/)
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+Site pessoal single page para apresentação das minhas experiências profissionais em programação, utilizando o template feito com [Bootstrap](http://getbootstrap.com/) criado e disponibilizado gratuitamento por [Start Bootstrap](http://startbootstrap.com/).
 
-## Preview
+## Visualização
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[Visualizar](https://palmeriojulio.netlify.com/)**
 
 ## Status
 
